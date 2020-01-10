@@ -34,7 +34,7 @@
     overflow-x: hidden;
     direction: ltr !important;
     z-index: 2147483647 !important;
-    background: rgb(251, 245, 244);
+    background: rgb(255, 255, 255);
     height:auto;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-panel .chromeperfectpixel-panel-wrapper{
     all: initial;
@@ -111,10 +111,10 @@
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-actions:nth-child(2) {
     border-radius: 3px 0 0 3px;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-actions:hover{
-    background-color: rgb(251, 245, 244);
+    background-color: rgb(255, 255, 255);
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-actions:hover svg {
     cursor: pointer;
-    fill: rgb(140, 90, 90);
+    fill: #969fa7;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-actions:hover:nth-child(2) {
     border-radius: 3px 0 0 3px;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-actions--active{
@@ -168,7 +168,7 @@
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
-    background: rgb(251, 245, 244);
+    background: rgb(255, 255, 255);
     -webkit-box-shadow: 0 1px 2px 0 rgba(140, 90, 90, 0.35);
             box-shadow: 0 1px 2px 0 rgba(140, 90, 90, 0.35);
     border-radius: 3px;
@@ -211,7 +211,7 @@
     width: 47%;
     background: -webkit-gradient(linear, left top, left bottom, from(rgb(247, 248, 247)), to(#FFF));
     background: linear-gradient(rgb(247, 248, 247) 0%, #FFF 100%);
-    border: 1px solid rgb(197, 165, 166);
+    border: 1px solid rgb(199, 199, 199);
     display: block;
     cursor: pointer
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-wide.chromeperfectpixel-button-wide--primary, html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-wide.chromeperfectpixel-button-wide--primary:hover, html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-wide:hover.chromeperfectpixel-button-wide--primary, html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-button-wide:hover.chromeperfectpixel-button-wide--primary:hover {
@@ -233,7 +233,7 @@
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
     background-color: #FFF;
-    border: 1px solid rgb(197, 165, 166);
+    border: 1px solid rgb(199, 199, 199);
     border-radius: 3px;
     -webkit-box-shadow: 0 5px 15px 0 rgba(140, 90, 90, 0.15);
             box-shadow: 0 5px 15px 0 rgba(140, 90, 90, 0.15);
@@ -255,7 +255,7 @@
     transition: 0.3s;
     padding: 6px 16px
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-dropdown-content li:hover {
-    background: rgb(251, 245, 244);
+    background: rgb(255, 255, 255);
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-dropdown-body{
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
@@ -273,7 +273,7 @@
     direction: ltr;
     display: block;
     font-size: 11px;
-    color: rgb(197, 165, 166);
+    color: rgb(199, 199, 199);
     line-height: 1.5;
     text-transform: uppercase;
     font-family: 'Poppins',Helvetica,sans-serif
@@ -285,7 +285,7 @@
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
     position: relative;
-    border: 1px solid rgb(197, 165, 166);
+    border: 1px solid rgb(199, 199, 199);
     border-radius: 3px;
     -webkit-box-sizing: border-box;
             box-sizing: border-box;
@@ -311,7 +311,7 @@
     direction: ltr;
     font-family: 'Poppins',Helvetica,sans-serif;
     font-size: 13px;
-    color: rgb(197, 165, 166);
+    color: rgb(199, 199, 199);
     position: absolute;
     right: 7px;
     top: 50%;
@@ -383,7 +383,7 @@
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
-    background: rgb(232, 216, 216);
+    background: rgb(233, 233, 233);
     height: 30px;
     width: 62px;
     line-height: 1;
@@ -429,7 +429,7 @@
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-panel-body.chromeperfectpixel-panel-body--permissions {
     font-size: 13px;
     line-height: 1.7;
-    color: rgb(140, 90, 90);
+    color: #969fa7;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-body-ask-permissions{
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
@@ -554,7 +554,7 @@
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
-    background: rgb(232, 216, 216);
+    background: rgb(233, 233, 233);
     border-radius: 10px;
     cursor: pointer;
     display: block;
@@ -671,16 +671,16 @@
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer:nth-last-child(1n+3) {
     margin: 0 0 7px;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer.chromeperfectpixel-layer--default {
-    border: 1px solid rgb(197, 165, 166);
+    border: 1px solid rgb(199, 199, 199);
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer.chromeperfectpixel-layer--default .chromeperfectpixel-layer-name {
-    background: rgba(197, 165, 166, 0.2);
+    background: rgba(199, 199, 199, 0.2);
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer.chromeperfectpixel-layer--active {
     border: 1px solid #FF0000;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer.chromeperfectpixel-layer--active .chromeperfectpixel-layer-name {
     background: rgba(255, 0, 0, 0.2);
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-layer.chromeperfectpixel-layer--new {
-    border: 1px dashed rgb(197, 165, 166);
-    color: rgb(140, 90, 90);
+    border: 1px dashed rgb(199, 199, 199);
+    color: #969fa7;
     font-family: 'Poppins Medium',Helvetica,sans-serif;
     font-size: 11px;
     line-height: 74px;
@@ -755,7 +755,7 @@
     all: initial;
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
-    border: 1px dashed rgb(197, 165, 166);
+    border: 1px dashed rgb(199, 199, 199);
     background: #FFF;
     display: block;
     margin: 8px 0;
@@ -788,6 +788,7 @@
     top: 16px;
     -webkit-transform: rotate(-30deg);
             transform: rotate(-30deg);
+    display: none !important;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-addimage-icon-newyear:hover {
     cursor: pointer;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-addimage-text-wrapper {
@@ -809,7 +810,7 @@
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
     font-size: 13px;
-    color: rgb(140, 90, 90);
+    color: #969fa7;
     text-align: center;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-addimage-input {
     all: initial;
@@ -825,7 +826,7 @@
     font: 14px/19px 'Poppins',Helvetica,sans-serif;
     direction: ltr;
     font-size: 13px;
-    color: rgb(140, 90, 90);
+    color: #969fa7;
     text-decoration: underline;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-addimage-link:hover {
     cursor: pointer;
@@ -899,10 +900,10 @@
     margin: 0;
     font-size: 11px;
     line-height: 14px;
-    color: rgb(197, 165, 166);
+    color: rgb(199, 199, 199);
     text-decoration: none;
 } #chromeperfectpixel-sponsored body .carbon-poweredby:hover {
-    color: rgb(140, 90, 90);
+    color: #969fa7;
     border-bottom:1px dotted;
 } html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-notification-text, html body > div#chromeperfectpixel-panel-container.chromeperfectpixel-panel-container .chromeperfectpixel-notification-text *{
     all: initial;
